@@ -4,6 +4,7 @@ Overview of this project
 This is a Task Management Application built using React. It helps users organize, prioritize, and manage their tasks effectively. The app allows users to create, edit, delete, and filter tasks based on priority and status. It also features a search bar to quickly find tasks by name.
 
 Key Features :-
+
 Task Creation: Add new tasks with a title, description, priority, status, due date, and time.
 
 Task Editing: Edit existing tasks, change their status, and mark them as completed.
