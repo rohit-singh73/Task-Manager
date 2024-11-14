@@ -1,0 +1,38 @@
+.task-card {
+  background-color: #3b3b4f;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  color: #fff;
+  transition: transform 0.2s;
+}
+
+.task-card:hover {
+  transform: translateY(-5px);
+}
+
+.task-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task-info span {
+  background-color: #f97316;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #ef4444;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #dc2626;
+}
